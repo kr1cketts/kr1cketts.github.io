@@ -1,29 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2026-05-12 17:42:00 +0000
+title:  "My Video Game"
+date:   2026-05-12
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I have yet to come up with a name for my video game, but I know what it will be about! It will follow the story of Cassy the Cat and her four friends as they get lost in the Appalachian Trail. It is based off of Shipwrecked 64 and will be a horror game.
 
-Jekyll requires blog post files to be named according to the following format:
+I'm making this game for my two sisters, my best friend, my parents, and of course myself. I decided to make this project after learning about and playign Shipwrecked 64. I was inspired by how it disguised itself as an old game from the Nintendo 64 era. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I've made a weekly road map for my progress. I've also made a general road map for what I wish to occur in my game as well as a short description and image of the characters here: https://lucid.app/lucidspark/13ab90b2-edef-4ea1-908e-0d86646a114b/edit?viewport_loc=-235%2C-1740%2C5210%2C2836%2C0_0&invitationId=inv_724a8414-832f-48e6-b068-4c733639a2b3
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+My GitHub Repository: https://github.com/kr1cketts/kr1cketts.github.io
