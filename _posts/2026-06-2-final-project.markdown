@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 In the end, I wasn't able to finish the video game due to a car crash. It messed up all the plans I had made and made it difficult to continue working on this project. I plan to finish it someday, just not today.
 
-However, I do have a slideshow about what I planned to make and what I would make if I had more time. You can find the Canva presentation here:[Link](https://canva.link/xliyoe907e2xsfw) 
+However, I do have a slideshow about what I planned to make and what I would make if I had more time. You can find the Canva presentation here: [Link](https://canva.link/xliyoe907e2xsfw) 
 
 If I had more time, I would have made five characters, a cat, mouse, squirrel, chipmunk, and sparrow. The cat, formally known as Cassy the Cat, would be who the player plays as throughout the game as she goes on a backpacking trip with her friends thourgh the Appalachian Mountains. I also intended to have a few 'secret' characters, a dog, to act as a foil to Cassy the Cat, and a rat. There was also going to be a spooky character that woud chase you during one of the three minigames I had planned. 
 
