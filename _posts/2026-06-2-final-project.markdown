@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Final Project"
+date:   2026-06-2
+categories: jekyll update
+---
+In the end, I wasn't able to finish the video game due to a car crash. It messed up all the plans I had made and made it difficult to continue working on this project. I plan to finish it someday, just not today.
+
+However, I do have a slideshow about what I planned to make and what I would make if I had more time. You can find the Canva presentation here:[Link](https://canva.link/xliyoe907e2xsfw) 
+
+If I had more time, I would have made five characters, a cat, mouse, squirrel, chipmunk, and sparrow. The cat, formally known as Cassy the Cat, would be who the player plays as throughout the game as she goes on a backpacking trip with her friends thourgh the Appalachian Mountains. I also intended to have a few 'secret' characters, a dog, to act as a foil to Cassy the Cat, and a rat. There was also going to be a spooky character that woud chase you during one of the three minigames I had planned. 
+
+I intended for there to be deeper lore. I wanted the game to be about a game developer who went insane as they created this game (don't worry I didn't go insane). They would begin to believe the characters in the game were real, and speak exclusively to Cassy. The game developer would do anything to make Cassy the Cat real, and Cassy would do anything to become real. The game was supposed to be set up such that there would be continuous forth wall breaks, where Cassy would constantly go off script and say things that were not supposed to be in game. There would be a game script, where nothing scary was supposed to happen, where no characters were to die or get harmed in anyway. You, as the player, were just meant to experience a camping trip with five animal mascots and help them throughout their journey, but Cassy's experience with the game developer changed this. She became alive, somehow, and began killing her friends (though this would be revealed later, and kept secret for most of the story) in an attempt to escape the game as they would not let her. In the end, Cassy would succeed and merge with the body of the developer. 
+
+I wanted there to be two versions of the game, the real version you were meant to play, and the version where Cassy and the Game developer go insane. You would be playing as an investigator for a missing persons case looking for the game developer, and you were pointed to this game as this was the very last thing the developer had created, though never released. You would first play the game as it was meant to be played, but within it would be a hidden code to unlock the 'video' documentation the developer made while making this game (officially, you as the REAL player would then be playing as the developer, but lore wise, the investigator is watching a video of what happened). In the end, Cassy the Cat, merged with the developer, would return and disapear the investigator, as he found too much. But how did the investigator find the videos? Who gave him a hidden code to find them? That would be the secret characters, the Dog and Rat, who survived and who wish to stop Cassy any way necessary.
+
+I wanted there to be hidden voice logs in the game, unlocked by finding and using the hints that the Dog and Rat give the player. I wanted there to be an external souce, like a secret website, that would also direct and inform the player on how to solve this case. 
+
+In the beginning, I made a roadmap or timeline that I was supposed to follow so that I could make progress at a reasonable pace. It also includes the original layout and plan for how I wanted the game to go, as well as character decriptions. The original roadmap I intended to follow can be found here: [Link](https://lucid.app/lucidspark/13ab90b2-edef-4ea1-908e-0d86646a114b/edit?viewport_loc=-235%2C-1740%2C5210%2C2836%2C0_0&invitationId=inv_724a8414-832f-48e6-b068-4c733639a2b3)
+
+My GitHub Repository only includes the Panda3D Hello World tutorial with a 3D tree model (with no colors, unfortunately) I made using Blender: [Link](https://github.com/kr1cketts/MyGame)
