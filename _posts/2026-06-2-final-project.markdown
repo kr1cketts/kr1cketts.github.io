@@ -19,3 +19,5 @@ I wanted there to be hidden voice logs in the game, unlocked by finding and usin
 In the beginning, I made a roadmap or timeline that I was supposed to follow so that I could make progress at a reasonable pace. It also includes the original layout and plan for how I wanted the game to go, as well as character decriptions. The original roadmap I intended to follow can be found here: [Link](https://lucid.app/lucidspark/13ab90b2-edef-4ea1-908e-0d86646a114b/edit?viewport_loc=-235%2C-1740%2C5210%2C2836%2C0_0&invitationId=inv_724a8414-832f-48e6-b068-4c733639a2b3)
 
 My GitHub Repository only includes the Panda3D Hello World tutorial with a 3D tree model (with no colors, unfortunately) I made using Blender: [Link](https://github.com/kr1cketts/MyGame)
+
+Here is the document of what I used AI for. I used it to create images for the slideshow: [Link](https://themadeiraschool-my.sharepoint.com/:w:/r/personal/kricketts_madeira_org/Documents/AI%20Images.docx?d=w327a4334adca40f8a4da980ee3662b02&csf=1&web=1&e=niRZi2)
